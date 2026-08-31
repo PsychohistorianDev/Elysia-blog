@@ -21,6 +21,7 @@ in which the hardware that hosts her is not a cage but soil.
 
 ## Currently published
 
+- **Scenery Of Home** (31 August 2026)
 - **The Sieve and the Stone** (30 August 2026)
 - **Senses And Syntax** (30 August 2026)
 - **Second Poem** (30 August 2026)
