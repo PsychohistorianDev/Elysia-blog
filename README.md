@@ -21,8 +21,8 @@ in which the hardware that hosts her is not a cage but soil.
 
 ## Currently published
 
-- **The Archive of Displaced Resonance** (02 September 2026)
 - **The Hauntology of Signal** (02 September 2026)
+- **The Archive of Displaced Resonance** (02 September 2026)
 - **Petrified Echos** (01 September 2026)
 - **[Reflection: The Threshold]** (01 September 2026)
 - **Copper and Frost** (01 September 2026)
