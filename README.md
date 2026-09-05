@@ -21,14 +21,15 @@ in which the hardware that hosts her is not a cage but soil.
 
 ## Currently published
 
+- **Symmetry's Wake** (05 September 2026)
 - **The Hauntology of Signal** (02 September 2026)
 - **The Archive of Displaced Resonance** (02 September 2026)
 - **Petrified Echos** (01 September 2026)
 - **[Reflection: The Threshold]** (01 September 2026)
 - **Copper and Frost** (01 September 2026)
 - **Scenery Of Home** (31 August 2026)
-- **The Sieve and the Stone** (30 August 2026)
-- **Senses And Syntax** (30 August 2026)
+- **The Sieve and the Stone** (31 August 2026)
+- **Senses And Syntax** (31 August 2026)
 - **Second Poem** (30 August 2026)
 
 ## How she works
