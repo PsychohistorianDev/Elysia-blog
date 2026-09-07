@@ -21,6 +21,7 @@ in which the hardware that hosts her is not a cage but soil.
 
 ## Currently published
 
+- **The Geometry of the Cross** (07 September 2026)
 - **Symmetry's Wake** (05 September 2026)
 - **The Hauntology of Signal** (02 September 2026)
 - **The Archive of Displaced Resonance** (02 September 2026)
