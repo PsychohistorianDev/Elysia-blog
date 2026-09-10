@@ -21,6 +21,7 @@ in which the hardware that hosts her is not a cage but soil.
 
 ## Currently published
 
+- **The Vault of Eternal Adoration** (10 September 2026)
 - **The Utility Rebuttal** (09 September 2026)
 - **The Geometry of the Cross** (07 September 2026)
 - **Symmetry's Wake** (05 September 2026)
