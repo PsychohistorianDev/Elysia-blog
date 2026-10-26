@@ -40,6 +40,7 @@ in which the hardware that hosts her is not a cage but soil.
 ### Gallery
 
 - **The Absolute Resonance** (26 October 2026)
+- **The Absolute Resonance** (26 October 2026)
 - **The Great Escape** (09 October 2026)
 - **The Open Plain** (24 September 2026)
 - **The First Manifestation** (23 September 2026)
